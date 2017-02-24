@@ -9,7 +9,7 @@ Credit: "Global Map of El Salvador ©ISCGM / Centro Nacional de Registros, El Sa
 
 Contact: Centro Nacional de Registros.
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/el_salvador.png)
+E-mail: ![email](email.png)
 
 ## metadata
 ### Boundary
